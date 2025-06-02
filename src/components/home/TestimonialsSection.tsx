@@ -58,7 +58,7 @@ const TestimonialsSection = () => {
                   </div>
                 </div>
                 <blockquote>
-                  <p className="text-gray-700 italic">"{testimonial.quote}"</p>
+                  <p className="text-gray-700 italic">{testimonial.quote}</p>
                 </blockquote>
               </div>
             </ScrollAnimationWrapper>
